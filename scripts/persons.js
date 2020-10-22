@@ -257,6 +257,12 @@ const Persons = {
     username: 'xandaogod',
     msg: 'Relaxa que no fim do PR tem Xandão!',
     image: 'https://i.imgur.com/efshqAn.jpg'
+  },
+  yoda: {
+    name: "Mestre Yoda",
+    username: 'yodaMestre',
+    msg: 'Ótimo está este PR!',
+    image: //irei colocar quando chegar em casa
   }
 }
 
