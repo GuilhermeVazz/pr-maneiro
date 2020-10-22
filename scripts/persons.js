@@ -257,7 +257,14 @@ const Persons = {
     username: 'xandaogod',
     msg: 'Relaxa que no fim do PR tem Xandão!',
     image: 'https://i.imgur.com/efshqAn.jpg'
-  }
+  },
+  yoda: {
+    name: "Mestre Yoda",
+    username: 'yodaMestre',
+    msg: 'Ótimo está essePR',
+    image: 'https://i.imgur.com/GC90kEG.jpg'
+}
+
 }
 
 if (typeof module === 'object') {
